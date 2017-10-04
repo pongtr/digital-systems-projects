@@ -6,11 +6,11 @@ EENG 348 with Professor Roman Kuc in Spring 2017
 Given a colored m&m, detect its color and display it on the RGB LED.
 
 Includes:  
-0. Learn program to store color mapping to EEPROM  
-1. Using hobbyist commands (eg. analogRead, analogWrite)  
-2. Using register commands to replace analogRead to take in analog input  
-3. Using Fast PWM for varying intensity of a color  
-4. Directly transform measured RGB values to output values of RGB LED
+1. Learn program to store color mapping to EEPROM  
+2. Using hobbyist commands (eg. analogRead, analogWrite)  
+3. Using register commands to replace analogRead to take in analog input  
+4. Using Fast PWM for varying intensity of a color  
+5. Directly transform measured RGB values to output values of RGB LED
 
 ## (2) Optical Communication
 Send a message encoded in dibits via an optical channel. Message is received from Matlab through serial.
